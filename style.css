@@ -14,7 +14,11 @@ nav{
 nav ul li{
   text-decoration: none;
 }
-li{
-  display: inline-flex;
-  color: darkorange;
+.li{
+  display: flex;
+    color: brown;
+    text-align: justify;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 50px;
 }
