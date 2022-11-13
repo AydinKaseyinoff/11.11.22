@@ -4,3 +4,13 @@
 ol{
   color: crimson;
 }
+nav{
+  background-color: brown;
+}
+nav ul li{
+  text-decoration: none;
+}
+li{
+  display: inline-flex;
+  color: darkorange;
+}
