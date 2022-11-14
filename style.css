@@ -22,3 +22,7 @@ nav ul li{
     padding: 10px;
     margin: 50px;
 }
+a{
+  color: white;
+  text-decoration: none;
+}
